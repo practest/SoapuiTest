@@ -28,7 +28,7 @@
                 <junitReport>true</junitReport>
                 <exportAll>true</exportAll>
                 <printReport>true</printReport>
-                <!--testSuite>TestSuite1</testSuite-->
+                <testSuite>TestSuite1</testSuite>
             </configuration>
 
             <executions>
